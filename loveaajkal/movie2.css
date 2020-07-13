@@ -1,0 +1,55 @@
+*{font-size:110%
+margin:2%;
+padding:2%;
+}
+header{ background-image:url("Love-Aaj-Kal.jpg");
+        height:500px;
+        width:75%;
+        border:5px solid #000000;
+        margin:0 auto;
+        overflow:auto;
+      }
+h1{ color:#000000;
+    font-family:"sans-serif";
+    font-style:italic;
+    font-size:400%;
+    font-weight:bolder;
+    font-variant:small-caps;
+    text-align:center;
+  }
+nav a{display:inline-block;
+      width:13%;
+      height:30%;
+      margin:20px;
+      padding:10px;
+      color:#000000;
+      background-color:rgb(255,255,255,0.5);
+      text-decoration:none;
+      font-weight:bolder;
+      font-size:180%;
+      text-alignment:center;
+      
+     }
+h2{color:#000000;
+    font-family:"sans-serif";
+    font-style:italic;
+    font-size:400%;
+    font-weight:bolder;
+    font-variant:small-caps;
+    text-align:center;
+    background-color:#a858abb3;
+padding:20px;
+margin:20px;
+}
+.active{ background-color:rgb(255,255,255);
+}
+#introduction{ color:#000000;
+               font-size:150%;
+}
+#introduction>table{ margin:0 auto;
+                     width:75%;
+}
+
+footer{clear:both;
+margin:0 auto;
+}
